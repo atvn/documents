@@ -76,8 +76,8 @@ redirect_from:
 >   - (not) for
 > - Adv clause = Conjunction + VF: ...that / so that / in order that ... can / may / shouldn't
 
-    (?) What + auxiliary verb + S + `V(\*) + element`(VF) + for?
+    (?) What + auxiliary verb + S + `V(*) + element`(VF) + for?
     => S + VF + (not) to + B.I
     => S + VF + (not) for + NF(Gerund / N / PrN) / Possessive A + NF(Gerund / N)
     => S + VF + that + VF(S + can / may / shouldn't)
-    \* do / does / will / am / is / are
+    (*) do / does / will / am / is / are
