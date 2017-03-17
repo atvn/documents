@@ -15,7 +15,7 @@ redirect_from:
   document.head.removeChild(autoGenCSSEl);
   
   for (const i of tbEl) {
-    i.addClass('table-bordered');
+    i.classList.add('table-bordered');
   }
   
 </script>
