@@ -161,6 +161,7 @@ ex: I am very(adv of degree) good(C = A) at math
   const tableEl = document.querySelectorAll('table');
   
   for (const i of tableEl) {
-    i.classList.add('table-bordered')
+    i.classList.add('table');
+    i.classList.add('table-bordered');
   }
 </script>
