@@ -45,6 +45,12 @@ redirect_from:
     ex: I(S) eat(V) ice-cream(D.O)
     
 ### VF3: To be
+    ex: I(S) am(V = become) `a boy`(C)
+##### Complement can being:
+- NF - using WH-question: What / Who
+- A - using WH-question: How
+- Adv of place - using WH-question: Where
+
 > - To be is a special verb
 > - To be has 3 forms in present: am / is / are
 > - Meaning: thì, là, ở
