@@ -10,8 +10,14 @@ redirect_from:
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 <script>
-  var autoGenCSSEl = document.head.querySelector('link');
+  const autoGenCSSEl = document.head.querySelector('link');
+  const tbEl = document.querySelectorAll('table');
   document.head.removeChild(autoGenCSSEl);
+  
+  for (const i of tbEl) {
+    i.addClass('table-bordered');
+  }
+  
 </script>
 
 # <a name="nf"></a>[NF](#nf)
