@@ -8,11 +8,15 @@ redirect_from:
   - ""
 ---
 
-<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/foundation/6.3.0/css/foundation.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <script>
   const autoGenCSSEl = document.head.querySelector('link');
-  const tbEl = document.querySelectorAll('table');
-  document.head.removeChild(autoGenCSSEl);  
+  const tableEl = document.querySelectorAll('table');
+  document.head.removeChild(autoGenCSSEl); 
+  
+  for (const i of tableEl) {
+    i.classList.add('table-bordered')
+  }
 </script>
 
 # <a name="nf"></a>[NF](#nf)
