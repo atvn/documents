@@ -67,3 +67,17 @@ redirect_from:
     ex: I buy a house for you
     ex: I buy a house to you <=> I buy you a house
     ex: I sit on(PrP) `the table`(NF) - PrP + NF => Adv phrase
+
+# <a name="wfor"></a>[What...for?](#wfor)
+
+> 2 ways for answering:
+> - Adv phrase = PrP + NF / Bare infinitive:
+>   - (not) to / so as (not) to / in order (not) to
+>   - (not) for
+> - Adv clause = Conjunction + VF: ...that / so that / in order that ... can / may / shouldn't
+
+    (?) What + auxiliary verb + S + `V(\*) + element`(VF) + for?
+    => S + VF + (not) to + B.I
+    => S + VF + (not) for + NF(Gerund / N / PrN) / Possessive A + NF(Gerund / N)
+    => S + VF + that + VF(S + can / may / shouldn't)
+    \* do / does / will / am / is / are
