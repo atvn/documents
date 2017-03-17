@@ -145,6 +145,12 @@ ex: I am very(adv of degree) good(C = A) at math
      Adj | Advs of manner
      --- | ---
      good | well
+     fast | fast
+     late | late
+     wide | wide
+     long | long
+     hard | hard
+     soon | soon
    - Adv phrase
      - `by`
        - means of transport / means of payment
@@ -162,6 +168,20 @@ ex: I am very(adv of degree) good(C = A) at math
      - To the best of my ...
      - without / like
      
+### How much vs How many
+
+How many / Countable N | How much / Uncountable N
+--- | ---
+some | some
+a lot of / lots of | a lot of / lots of
+plenty of | plenty of
+a few / few | a lttle / little / a bit of
+many | much
+several | --
+a agreat no of | a great amount of
+over | --
+
+
 <script>
   const tableEl = document.querySelectorAll('table');
   
