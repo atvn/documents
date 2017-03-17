@@ -1,7 +1,7 @@
 ---
 id: hello-world
 title: Hello World
-permalink: docs/hello-world.html
+permalink: reviews.html
 prev: installation.html
 next: introducing-jsx.html
 redirect_from:
