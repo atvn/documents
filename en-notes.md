@@ -11,12 +11,7 @@ redirect_from:
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
 <script>
   const autoGenCSSEl = document.head.querySelector('link');
-  const tableEl = document.querySelectorAll('table');
   document.head.removeChild(autoGenCSSEl); 
-  
-  for (const i of tableEl) {
-    i.classList.add('table-bordered')
-  }
 </script>
 
 # <a name="nf"></a>[NF](#nf)
@@ -162,3 +157,10 @@ ex: I am very(adv of degree) good(C = A) at math
      - To the best of my ...
      - without / like
      
+<script>
+  const tableEl = document.querySelectorAll('table');
+  
+  for (const i of tableEl) {
+    i.classList.add('table-bordered')
+  }
+</script>
