@@ -9,6 +9,11 @@ redirect_from:
 ---
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+<style>
+  table {
+    width: auto;
+  }
+</style>
 <script>
   const autoGenCSSEl = document.head.querySelector('link');
   document.head.removeChild(autoGenCSSEl); 
