@@ -36,7 +36,7 @@ redirect_from:
 ### NF3: Gerund(Verbal noun / V+ing => Noun)
     ex: `Playing games`(N) is `my hobby`(Complement)
     
-# <a name="vf"></a>[VF](#vf) Verb + element
+# <a name="vf"></a>[VF: Verb + element](#vf)
 
 ### VF1: Intransitive(Vi)
     ex: I(S) sleep(V)
@@ -46,10 +46,11 @@ redirect_from:
     
 ### VF3: To be
     ex: I(S) am(V = become) `a boy`(C)
-##### Complement can being:
-- NF - using WH-question: What / Who
-- A - using WH-question: How
-- Adv of place - using WH-question: Where
+    
+> Complement can being:
+> - NF - using WH-question: What / Who
+> - A - using WH-question: How
+> - Adv of place - using WH-question: Where
 
 > - To be is a special verb
 > - To be has 3 forms in present: am / is / are
