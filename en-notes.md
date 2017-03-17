@@ -5,7 +5,7 @@ permalink: en-notes.html
 prev: ''
 next: ''
 redirect_from:
-  - "index.html"
+  - ""
 ---
 
 <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css" integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
@@ -18,12 +18,13 @@ redirect_from:
 > Always have the article before
 > - Using `a` with `consonants`
 > - Using `an` with `vowels(A / E / I / O /U)`
+
 ### NF1: Noun
-    ex: Andy(S = Noun) eats a mouse(D.O = Noun)
+`ex: Andy(S = Noun) eats a mouse(D.O = Noun)`
 ### Expanded NF1(eNF1): Adj + Noun
-    ex: Andy(S = Noun) eats a black(Adj) mouse(D.O = Noun)
+`ex: Andy(S = Noun) eats a black(Adj) mouse(D.O = Noun)`
 ### NF2: Pronoun
-    ex: He(S = Pronoun) eats a mouse(D.O = Pronuon)
+`ex: He(S = Pronoun) eats a mouse(D.O = Pronuon)`
 - Subject: I / you / we / they / he / she / it
 - Object: me / you / us / them / him / her / it
 ### NF3: Gerund(Verbal noun / V+ing => Noun)
