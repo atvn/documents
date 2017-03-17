@@ -81,7 +81,7 @@ ex: I(S) am(V = become) `a boy`(C)
 ex: I(S) buy(Vt) `a house`(D.O) to(Preposition) you(I.O => reciever)
 ex: I buy a house for you
 ex: I buy a house to you <=> I buy you a house
-ex: I sit on(PrP) `the table`(NF) - PrP + NF => Adv phrase
+ex: I sit on(Prep) `the table`(NF) - Prep + NF => Adv phrase
 ```
 
 # <a name="wfor"></a>[What...for?](#wfor)
@@ -112,4 +112,48 @@ ex: I am very(adv of degree) good(C = A) at math
 > - absolutely / extremely / definitely
 > - super
 
+# <a name="kind-of-question"></a>[Kinds of question](#kind-of-question)
 
+1. Yes - No question: Do / does / am / is / are / will / have + S + VF?
+2. WH question:
+   - QW as S: QW + VF? - What / Who / Which + N / Whose + N / How many + plural N / How much + uncountable N
+   - QW as O - What / Who / Which + N / Whose + N / How many + plural N / How much + uncountable N
+   - Optional details - How / Where / When / What ... for / How often
+   
+### Optional details
+1. Where => use:
+   - Advs of place
+   - Adv phrase = Prep + NF
+   - Adc clause = Conj + VF
+2. When => use:
+   - Advs of time
+   - Adv phrase = Prep + NF
+   - Adc clause = Conj + VF
+3. What...for => use:
+   - Adv phrase = Prep + NF
+   - Adc clause = Conj + VF
+4. How often => use:
+   - Advs of frequency
+5. How(a manner) => use:
+   - Advs of manner:
+   
+     Adj | Advs of manner
+     --- | ---
+     good | well
+   - Adv phrase
+     - `by`
+       - means of transport / means of payment
+       - gerund
+     - `in cash`
+     - `on`: 
+       - (a / an / the) small transports
+       - big animal
+       - foot
+     - `with`
+       - bodypart
+       - tools
+       - materials
+     - within (my) limits
+     - To the best of my ...
+     - without / like
+     
