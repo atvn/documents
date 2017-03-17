@@ -1,11 +1,11 @@
 ---
-id: NF
-title: NF
-permalink: nf.html
+id: english-notes
+title: NOTES
+permalink: en-notes.html
 prev: ''
-next: vf.html
+next: ''
 redirect_from:
-  - "docs/index.html"
+  - "index.html"
 ---
 
 # <a name="nf"></a>[NF](#nf)
