@@ -1,14 +1,11 @@
 ---
-id: hello-world
-title: Hello World
-permalink: reviews.html
-prev: installation.html
-next: introducing-jsx.html
+id: NF
+title: NF
+permalink: nf.html
+prev: ''
+next: vf.html
 redirect_from:
   - "docs/index.html"
-  - "docs/getting-started.html"
-  - "docs/getting-started-ko-KR.html"
-  - "docs/getting-started-zh-CN.html"
 ---
 
 # <a name="nf"></a>[NF](#nf)
@@ -24,8 +21,7 @@ redirect_from:
     ex: Andy(S = Noun) eats a black(Adj) mouse(D.O = Noun)
 ### NF2: Pronoun
     ex: He(S = Pronoun) eats a mouse(D.O = Pronuon)
-Subject | I | you | we | they | he | she | it
--- | -- | -- | -- | -- | -- | -- | --
-Object | me | you | us | them | him | her | it
+- Subject: I / you / we / they / he / she / it
+- Object: me / you / us / them / him / her / it
 ### NF3: Gerund(Verbal noun / V+ing => Noun)
     ex: `Playing games`(Noun) is `my hobby`(Complement)
