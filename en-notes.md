@@ -39,7 +39,7 @@ ex: Andy eats a black(A) mouse
 
 ### NF2: Pronoun
 ```
-ex: He(S = PrN) eats `a mouse`(D.O = PrN)
+ex: He(S = Pr) eats `a mouse`(D.O = Pr)
 ```
 - Subject: I / you / we / they / he / she / it
 - Object: me / you / us / them / him / her / it
@@ -91,8 +91,8 @@ ex: I sit on(Prep) `the table`(NF) - Prep + NF => Adv phrase
 
 # <a name="wfor"></a>[What...for?](#wfor)
 
-> 2 ways for answering:
-> - Adv phrase = PrP + NF / Bare infinitive:
+> 2 ways to answer:
+> - Adv phrase = prep + NF / Bare infinitive:
 >   - (not) to / so as (not) to / in order (not) to
 >   - (not) for
 > - Adv clause = Conjunction + VF: ...that / so that / in order that ... can / may / shouldn't
